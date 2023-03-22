@@ -1,0 +1,22 @@
+.testimonios {
+    background-color: #f5f5f5;
+    padding: 30px;
+    border-radius: 10px;
+  }
+  
+  .testimonio {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .testimonio p:first-child {
+    margin-bottom: 10px;
+    font-style: italic;
+  }
+  
+  .testimonio p:last-child {
+    font-weight: bold;
+  }
+  

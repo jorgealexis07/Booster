@@ -1,0 +1,39 @@
+.image-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;
+  }
+
+  .image-container li {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+  }
+
+  .image-container li img {
+    transition: all 0.3s ease-in-out;
+    width: 100%;
+    height: auto;
+  }
+  
+  .image-container li:hover img {
+    transform: scale(1.1);
+  }
+  
+  .image-container li.current img {
+    opacity: 1;
+  }
+  
+  .image-container li.previous img,
+  .image-container li.next img {
+    opacity: 0.5;
+  }
+  
+  .image-container li.previous img {
+    transform: translateX(-50%);
+  }
+  
+  .image-container li.next img {
+    transform: translateX(50%);
+  }
+  
