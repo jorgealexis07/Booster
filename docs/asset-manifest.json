@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a279c01d.css",
+    "main.js": "/static/js/main.c112c3ed.js",
+    "static/js/787.4c51100c.chunk.js": "/static/js/787.4c51100c.chunk.js",
+    "static/media/img1.jpg": "/static/media/img1.cb6530d555de54cf1ca4.jpg",
+    "static/media/img5.jpg": "/static/media/img5.a71a06597e43f2e7633c.jpg",
+    "static/media/img6.jpg": "/static/media/img6.03e0ec041d2f6917a088.jpg",
+    "static/media/ate.jpg": "/static/media/ate.94f97bcc528e2081a04a.jpg",
+    "static/media/Nissan_logo.png": "/static/media/Nissan_logo.c965109b21e1a03c1723.png",
+    "static/media/Chevrolet-logo.png": "/static/media/Chevrolet-logo.8088c428614f7cfd5faf.png",
+    "static/media/bosch.jpg": "/static/media/bosch.9ba8e8b9af02fe7540b7.jpg",
+    "static/media/booster.jpg": "/static/media/booster.2827f7724e6dd9cc0556.jpg",
+    "static/media/hidrovac.jpg": "/static/media/hidrovac.c171c1c1a03b03121271.jpg",
+    "static/media/BMW.png": "/static/media/BMW.0c50b7fe45aa2601199f.png",
+    "static/media/img7.jpg": "/static/media/img7.3448aa278978511158b4.jpg",
+    "static/media/img3.jpg": "/static/media/img3.2f76b18baec361065687.jpg",
+    "static/media/img11.jpeg": "/static/media/img11.ec09a3d5721c8804ec6e.jpeg",
+    "static/media/vw.jpg": "/static/media/vw.494993cee6be94b786fa.jpg",
+    "static/media/img10.jpeg": "/static/media/img10.30c2bf66c60459358d39.jpeg",
+    "static/media/hidromax.jpg": "/static/media/hidromax.5a5ebddf944c7f6dd9a2.jpg",
+    "static/media/img12.jpeg": "/static/media/img12.aad73ee36494e8df67a3.jpeg",
+    "static/media/img8.jpg": "/static/media/img8.663392d7f8bdc180acdc.jpg",
+    "static/media/trw.jpg": "/static/media/trw.fad679eeaf949b095d9f.jpg",
+    "static/media/seat.png": "/static/media/seat.0d32ebcf93df3047089d.png",
+    "static/media/LogoBooster.png": "/static/media/LogoBooster.e72c2f2460a863d68690.png",
+    "static/media/img4.jpeg": "/static/media/img4.99a63eacefb50b630210.jpeg",
+    "static/media/img2.jpg": "/static/media/img2.546a82de5277f3f180f6.jpg",
+    "index.html": "/index.html",
+    "main.a279c01d.css.map": "/static/css/main.a279c01d.css.map",
+    "main.c112c3ed.js.map": "/static/js/main.c112c3ed.js.map",
+    "787.4c51100c.chunk.js.map": "/static/js/787.4c51100c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a279c01d.css",
+    "static/js/main.c112c3ed.js"
+  ]
+}
