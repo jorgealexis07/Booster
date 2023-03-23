@@ -88,7 +88,7 @@ export default function footer() {
               </h2>
               <ul className="text-gray-600 dark:text-gray-400">
                 <li className="mb-4">
-                  <a href="/politica" class="hover:underline">
+                  <a href="/Booster/politica" class="hover:underline">
                     Privacy Policy
                   </a>
                 </li>

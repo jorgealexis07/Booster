@@ -12,7 +12,7 @@ const Router = ()=>(
     <BrowserRouter>
         <Routes>
             <Route index path ="/Booster" element={<App/>}/>
-            <Route path ="/politica" element={<PolicyPriv/>}/>
+            <Route path ="/Booster/politica" element={<PolicyPriv/>}/>
             <Route path ="/terminos" element={<Terminos/>}/>
          {/*    <Route path ="/acercade" element={<Acercade/>}/>
             <Route path ="/contacto" element={<Contacto/>}/>  */}
