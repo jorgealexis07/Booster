@@ -9,7 +9,7 @@ export default function footer() {
       <footer className="footer p-4 bg-white sm:p-6 dark:bg-gray-900">
         <div className="md:flex md:justify-between">
           <div className="mb-6 md:mb-0">
-            <a href="/" class="flex items-center">
+            <a href="/Booster" class="flex items-center">
               <img src={logo} class="h-8 mr-3" alt="FlowBite Logo" />
               <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">
                 Booster the bosses

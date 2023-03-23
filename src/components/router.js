@@ -11,7 +11,7 @@ import NotFound from "../components/notFound";
 const Router = ()=>(
     <BrowserRouter>
         <Routes>
-            <Route index path ="/" element={<App/>}/>
+            <Route index path ="/Booster" element={<App/>}/>
             <Route path ="/politica" element={<PolicyPriv/>}/>
             <Route path ="/terminos" element={<Terminos/>}/>
          {/*    <Route path ="/acercade" element={<Acercade/>}/>
